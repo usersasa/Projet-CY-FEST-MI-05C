@@ -1,0 +1,20 @@
+
+Utilisation : 
+Creer une ou plusieurs salles de concerts:
+Suivez les instructions à l'écran pour entrer les détails de la salle. Assurez-vous de fournir toutes les informations nécessaires.
+
+Attribuer un concert à une salle:
+Après avoir ajouté une salle, vous pouvez attribuer un concert en entrant le nom de l'artiste et les prix des billets par catégorie.
+
+Modifier une salle de concert:
+Vous pouvez modifier une salle de concert, du moment que celle-ci en possede pas de concert d'attribuer.
+
+Sauvegarder les salles : 
+Les informations sur les salles peuvent être sauvegardées dans un fichier texte en sélectionnant l'option correspondante dans le menu du programme.
+
+reserver des places : 
+En allant dans le mode festivalier, vous aurez un choix de concert disponibles où vous pouvez reserver une ou plusieurs places.
+
+
+Auteurs :
+Programme développé par SBAI sayf, Yanis ABBAT, Amir MERROUCHE.
